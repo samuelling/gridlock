@@ -2,7 +2,7 @@
 
 A step-sequenced multi-effect for the browser, in the spirit of Sugar Bytes' Effectrix. Paint effect blocks on a 16/32-step grid over a loop and the effects fire in time.
 
-**Play it:** https://samuelling.github.io/gridlock/
+**Play it:** https://linglab.org/gridlock/
 
 ## Effects
 Buffer effects (these move the read head; when blocks overlap, the lower row wins):
